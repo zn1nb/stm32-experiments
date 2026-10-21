@@ -1,0 +1,5 @@
+## 编译和烧录都正常，但没工作
+
+1. 检查各处线路连接是否正常，无错接、漏接
+2. 可以点按最小系统板上的按钮（RESET）
+3. Keil 中勾选 `魔术棒 → Debug → Settings → Flash Download → Reset and Run`，下载后自动运行
