@@ -50,3 +50,16 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# ===== Keil MDK 编译产物与本机配置 =====
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.uvoptx
+*.uvproj.bak
+*.dep
+*.crf
+*.axf
+*.lnp
+*.htm
