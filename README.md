@@ -12,7 +12,6 @@
 - 完整 Keil 工程（`Project.uvprojx`）
 - 源码（`User/` `Hardware/` `System/` `Library/` `Start/`）
 - `接线图.jpg` —— 对应实验的接线图（压缩版，约 200 KB）
-- `README.md` —— 该实验的记录：遇到的坑、怎么检查、最终原因
 
 编译产物（`Objects/` `Listings/` `*.uvguix.*` `*.uvoptx`）已通过 `.gitignore` 排除，
 clone 下来用 Keil 重新编译即可。
